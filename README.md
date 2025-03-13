@@ -3,7 +3,7 @@
 - 👀 I’m interested in **Full-Stack Development, Open-Source Contributions, and Problem-Solving.**  
 - 🌱 I’m currently learning **Advanced Spring Boot, Microservices Architecture, and Cloud Technologies (AWS, Docker, Kubernetes).**  
 - 💞️ I’m looking to collaborate on **Java-based Full-Stack projects, REST APIs, and scalable web applications.**  
-- 📫 How to reach me: **[LinkedIn](www.linkedin.com/in/poonam-sharma-sde) | [Email](mailto:poonamsharma2697@gmail.com)**  
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/poonam-sharma-sde) | [Email](mailto:poonamsharma2697@gmail.com)**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I enjoy debugging so much that I sometimes forget to take breaks! 😄**  
 
